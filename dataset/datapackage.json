@@ -15,7 +15,16 @@
       "name": "farmacie",
       "url": "https://github.com/SiciliaHub/Palermo/blob/master/dataset/farmacie.json",
       "format": "json",
-      "mediatype": "text/json"
+      "mediatype": "text/json",
+      "schema": {
+        "fields": [
+          {
+            "id": "<!DOCTYPE html>",
+            "description": "",
+            "type": "string"
+          }
+        ]
+      }
     }
   ]
 }
