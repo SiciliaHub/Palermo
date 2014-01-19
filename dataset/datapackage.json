@@ -12,19 +12,11 @@
   ],
   "resources": [
     {
+      "url": "https://raw2.github.com/SiciliaHub/Palermo/master/dataset/farmacie.json",
       "name": "farmacie",
-      "url": "https://github.com/SiciliaHub/Palermo/blob/master/dataset/farmacie.json",
       "format": "json",
-      "mediatype": "text/json",
-      "schema": {
-        "fields": [
-          {
-            "id": "<!DOCTYPE html>",
-            "description": "",
-            "type": "string"
-          }
-        ]
-      }
+      "mediatype": "application/json",
+      "description": "farmacie di Palermo"
     }
   ]
 }
