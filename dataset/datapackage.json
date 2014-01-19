@@ -4,10 +4,10 @@
   "description": "Farmacie del Comune di Palermo estratte dal sito Open Data del ministero della salute",
   "licenses": [
     {
-      "id": "iodl",
-      "name": "Italian Open Data Licence v1.0",
+      "id": "odc-pddl",
+      "name": "Public Domain Dedication and License",
       "version": "1.0",
-      "url": "http://www.formez.it/iodl/"
+      "url": "http://opendatacommons.org/licenses/pddl/1.0/"
     }
   ],
   "resources": [
@@ -16,7 +16,7 @@
       "name": "farmacie",
       "format": "json",
       "mediatype": "application/json",
-      "description": "farmacie di Palermo"
+      "description": "Farmacie geojson"
     }
   ]
 }
